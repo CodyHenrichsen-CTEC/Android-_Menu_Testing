@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Android Menu Testing</string>
+    <string name="menu_settings">Base Menu Settings</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="baseNote">This is the basic screen</string>
+    <string name="secondMenuItem">What does this do?</string>
+    <string name="otherColor">Other</string>
+    <string name="thatColor">That Color</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu_called">MenuCalledActivity</string>
+    <string name="calledScreenText">This is the menu called screen</string>
+
+    <integer-array name="soundList">
+        <item>2</item>
+    </integer-array>
+
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_settings"
+        android:title="@string/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/secondMenuItem" android:title="@string/secondMenuItem"></item>
+    <group android:id="@+id/colorGroup">
+        <item android:id="@+id/menuRed" android:title="red" android:checkable="true"></item>
+        <item android:id="@+id/menuGreen" android:title="green" android:checkable="true"></item>
+        <item android:id="@+id/menuBlue" android:title="blue" android:checkable="true"></item>
+        <item android:id="@+id/menuPurple" android:title="purple" android:checkable="true"></item>
+        <item android:id="@+id/menuOther" android:title="@string/otherColor" android:checkable="true"></item>
+        <item android:id="@+id/menuThat" android:title="@string/thatColor" android:checkable="true"></item>
+    </group>
+</menu>
