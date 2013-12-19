@@ -13,6 +13,7 @@ public class MainActivity extends Activity
 {
 
 	protected Button homeButton;
+	protected Button otherButton;
 
 	protected void returnHome()
 	{
